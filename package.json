@@ -1,0 +1,25 @@
+{
+  "name": "@silver-3/simple-jsondb",
+  "version": "2.0.0",
+  "description": "A simple database made by using json files",
+  "main": "src/index.js",
+  "scripts": {
+    "publish": "npm publish --access=public"
+  },
+  "keywords": [
+    "simpledb",
+    "json",
+    "easy",
+    "jsondb"
+  ],
+  "author": ".silver_3",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silver-3/simple-jsondb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Silver-3/simple-jsondb/issues"
+  },
+  "homepage": "https://github.com/Silver-3/simple-jsondb#readme"
+}
