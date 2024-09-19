@@ -1,5 +1,6 @@
 # Simple-JsonDB
 A simple database made by using json files
+NPM page can be found at https://www.npmjs.com/package/@silver-3/simple-jsondb
 
 ### Install
 ```bash
